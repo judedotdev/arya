@@ -1,8 +1,8 @@
 # What is Arya?
 
-<figure><img src="https://2280751637-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhjclFGA2VL7CrKKDonWr%2Fuploads%2FEELiDNHxp1ouW4B0zujL%2FScreenshot_5.png?alt=media&#x26;token=a3f76b23-d4be-47fb-9987-70f3177fd528" alt=""><figcaption></figcaption></figure>
+<figure><img src="./logo.png" alt="Arya Protocol Logo"><figcaption></figcaption></figure>
 
-is a money market abstraction infrastrcuture protocol designed to optimize and simplify how users interact with lending and borrowing platforms. It acts as a **unified aggregator and optimizer** that allows users to deposit or borrow assets without manually researching across multiple protocols like Aave, Compound, or Morpho.
+Arya is a money market abstraction infrastrcuture protocol designed to optimize and simplify how users interact with lending and borrowing platforms. It acts as a **unified aggregator and optimizer** that allows users to deposit or borrow assets without manually researching across multiple protocols like Aave, Compound, or Morpho.
 
 ***
 
