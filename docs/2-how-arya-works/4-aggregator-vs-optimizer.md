@@ -1,70 +1,34 @@
 # What is a Yield Optimizer?
 
-A yield optimizer is a smart autopilot for your DeFi assets.
+Understanding the smart autopilot behind Arya's DeFi efficiency.
 
-It automatically:
-- Finds the best lending yields or lowest borrowing rates across protocols
-- Routes your assets to the optimal platform (Aave, Compound, Morpho, etc.)
-- Continuously monitors rates and rebalances when better opportunities appear
-- Adapts to risk, volatility, liquidity, and gas costs
-- Implements sophisticated strategies without manual input
+A yield optimizer is more than a simple router — it's an intelligent system that finds, manages, and adapts your DeFi positions automatically.
 
-Think of it as: GPS (finding the route) + Autopilot (driving for you) + Traffic Monitor (adjusting in real-time)
+Think of it as: GPS (finding the best route) + Autopilot (managing the journey) + Traffic Monitor (adjusting in real-time).
 
-Arya is a yield optimizer that combines all these capabilities to maximize your returns while minimizing effort.
+What Arya's Yield Optimizer Does:
 
-## Aggregator vs Optimizer
+Initial Routing
+- Finds the best lending yield or lowest borrowing rate
+- Routes assets to the optimal money market (e.g. Aave, Compound, Morpho)
+- Eliminates manual comparison across platforms
 
-> Understanding the two engines behind DeFi efficiency — and how Arya merges them.
+Continuous Management
+- Monitors yield/borrow rates across protocols 24/7
+- Auto-rebalances when better opportunities appear
+- Adapts to risk, volatility, protocol liquidity, and gas costs
+- Implements smart strategies (e.g. target yield %, minimum LTV)
 
-***
+Key Benefits:
 
-### Aggregator: The Router
+✓ Zero manual effort — Set it and forget it
+✓ Maximized long-term performance — Always earning/borrowing at optimal rates
+✓ Real-time adaptation — Responds instantly to market shifts
+✓ Multi-protocol access — One interface, all major lending platforms
+✓ Gas-optimized — Smart execution minimizes transaction costs
 
-An **aggregator** acts like a GPS for your assets.
+Without a Yield Optimizer:
+You manually check rates, withdraw from Protocol A, deposit to Protocol B, pay gas fees, repeat daily.
 
-It doesn’t hold your funds, but it **guides them** to where they’ll earn the most or cost the least — based on current protocol data.
-
-### &#x20;**What It Does:**
-
-* Finds the **best lending yield** or **lowest borrowing rate**
-* Routes assets to the most optimal money market (e.g. Aave, Compound, Morpho)
-* Avoids manual comparison across platforms
-
-***
-
-### Optimizer: The Strategist
-
-An **optimizer** is more than a GPS — it’s a **smart autopilot** that dynamically adapts.
-
-It not only routes, but also **manages, rebalances, and fine-tunes** your positions based on changing market conditions.
-
-### **What It Does:**
-
-* Monitors yield/borrow rates continuously
-* **Auto-rebalances** when better opportunities appear
-* Adapts to risk, volatility, protocol liquidity, and gas cost
-* Can **implement strategies** (e.g. target yield %, minimum LTV)
-
-### **Key Value:**
-
-* **Reduces user effort**
-* **Improves long-term performance**
-* Responds in real-time to **market shifts**
-
-***
-
-### Arya = Aggregator + Optimizer
-
-Arya combines the **routing power of an aggregator** with the **intelligence of an optimizer**.
-
-Rather than choosing between the two, you get the benefits of both:
-
-| Feature                      | Aggregator | Optimizer | **Arya** |
-| ---------------------------- | ---------- | --------- | ---------- |
-| Chooses best APY / APR       | ✅          | ✅         | ✅          |
-| Auto-rebalances              | ❌          | ✅         | ✅          |
-| Adjusts for gas & volatility | ❌          | ✅         | ✅          |
-| Multi-protocol access        | ✅          | ✅         | ✅          |
-| Implements smart strategies  | ❌          | ✅         | ✅          |
-| Requires manual input        | ✅          | ❌         | ❌          |
+With Arya:
+Your positions automatically move to wherever rates are best — while you sleep.
