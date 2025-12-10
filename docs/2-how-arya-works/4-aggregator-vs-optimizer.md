@@ -1,4 +1,19 @@
-# Aggregator vs Optimizer
+# What is a Yield Optimizer?
+
+A yield optimizer is a smart autopilot for your DeFi assets.
+
+It automatically:
+- Finds the best lending yields or lowest borrowing rates across protocols
+- Routes your assets to the optimal platform (Aave, Compound, Morpho, etc.)
+- Continuously monitors rates and rebalances when better opportunities appear
+- Adapts to risk, volatility, liquidity, and gas costs
+- Implements sophisticated strategies without manual input
+
+Think of it as: GPS (finding the route) + Autopilot (driving for you) + Traffic Monitor (adjusting in real-time)
+
+Arya is a yield optimizer that combines all these capabilities to maximize your returns while minimizing effort.
+
+## Aggregator vs Optimizer
 
 > Understanding the two engines behind DeFi efficiency — and how Arya merges them.
 
