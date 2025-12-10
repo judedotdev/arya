@@ -8,7 +8,7 @@
 
 An **aggregator** acts like a GPS for your assets.
 
-It doesn’t hold your funds, but it **guides them** to where they’ll earn or cost the least — based on current protocol data.
+It doesn’t hold your funds, but it **guides them** to where they’ll earn the most or cost the least — based on current protocol data.
 
 ### &#x20;**What It Does:**
 
