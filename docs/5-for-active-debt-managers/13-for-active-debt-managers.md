@@ -3,7 +3,7 @@
 ### What Sets Arya Apart for Active Debt Managers?
 
 **1. Unified Protocol Access**\
-Get seamless access to top lending markets like Aave, Euler,Silo and more — through one powerful interface. No more switching between dashboards.
+Get seamless access to top lending markets like Aave, Euler, Silo and more — through one powerful interface. No more switching between dashboards.
 
 **2. Real-Time Borrow Rate Comparisons**\
 View live borrowing APRs across protocols, with context like:
